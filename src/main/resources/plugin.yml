@@ -1,0 +1,4 @@
+name: item_to_xp_plugin
+version: '1.0-SNAPSHOT'
+main: BAS.item_to_xp_plugin.Item_to_xp_plugin
+api-version: '1.19'
